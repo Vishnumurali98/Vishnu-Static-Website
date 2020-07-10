@@ -128,7 +128,7 @@ nav.w3-navbar {
 
 
 .w3l-banner {
-    background: url(/web/slr3.jpg) no-repeat 0px 0px;
+    background: url(../images/slr3.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -512,7 +512,7 @@ h3.text-center {
 	
 }
 .about_left {
-    background: url(/web/slr1.jpg) no-repeat 0px 0px;
+    background: url(../images/slr1.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 500px;
 	padding: 5em 0em 0 4em;
@@ -665,7 +665,7 @@ ul.address li ul.agileits-address-text li a {
 	color:#fff;
 }
 .stats{
-	background: url(/web/l61.jpg) no-repeat 0px 0px;
+	background: url(../images/l61.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
